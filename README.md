@@ -14,7 +14,8 @@
 - 23 / Vienna
 - every bug a feature if you gaslight good enough  
 
-[![track](https://img.shields.io/badge/Now%20Playing-Fracko%20%E2%80%94%20Winnin%E2%80%99%20(2023)-FF0033?logo=youtube&logoColor=white)](https://music.youtube.com/watch?v=noJth6CJ9C4&si=8Dr0rpRAO249L_U_)
+[![track](https://img.shields.io/badge/Now%20Playing-Skepta%20%E2%80%94%20Gas%20Me%20Up%20(Diligent)%20(2023)-FF0033?logo=youtube&logoColor=white)](https://music.youtube.com/watch?v=GNxxXX5kXpg&si=zOoyPN_fz7hXiY01)
+
 
 
 ---
