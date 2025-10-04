@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0033&center=true&vCenter=true&width=435&lines=frech.%20laut.%20commit.;fake%20it.%20ship%20it.%20own%20it.;too%20many%20commits.%20not%20enough%20sleep." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0033&center=true&vCenter=true&width=435&lines=fake%20it.%20ship%20it.%20own%20it.;too%20many%20commits.%20not%20enough%20sleep." alt="Typing SVG" />
 </p>
 
 ---
